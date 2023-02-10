@@ -29,7 +29,7 @@
 
 
 ### Instalation
-If you are on KDE Plasma—by default Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "al-swaiti" and install.
+If you are on KDE Plasma—by default Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "tiger" and install.
 try also for gnome menu
 
 
