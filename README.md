@@ -29,8 +29,11 @@
 
 
 ### Instalation
+If you are on KDE Plasma—by default Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "al-swaiti" and install.
+try also for gnome menu
 
 
+**Manual way**
 ```
 git clone https://github.com/tiger/tiger-sddm-theme
 
