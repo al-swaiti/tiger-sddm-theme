@@ -30,8 +30,8 @@
 
 
 ### Instalation
-If you are on KDE Plasma—by default ArcoLinux, Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "tiger" and install.
-try also for gnome menu
+If you have system stting (kde plasma, gnome, xfce, etc ) ArcoLinux, Manjaro, OpenSuse, Kubuntu, go to "System setting" search for  "Login Screen (SDDM)" > "Get New Theme". search for "tiger" and install. sometime under > "Startup and Shutdown" >
+
 
 
 **Manual way**
