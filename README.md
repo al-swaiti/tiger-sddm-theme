@@ -35,8 +35,9 @@ If you have system stting (kde plasma, gnome, xfce, etc ) ArcoLinux, Manjaro, Op
 
 
 **Manual way**
+
 ```
-git clone https://github.com/tiger/tiger-sddm-theme
+git clone https://github.com/al-swaiti/tiger-sddm-theme
 
 cd tiger-sddm-theme
 
