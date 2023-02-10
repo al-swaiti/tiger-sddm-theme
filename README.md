@@ -6,13 +6,14 @@
 
 
 
+**Arch based** distros using the **pacman** package manger:  
+*(ArcoLinux/Obarun/Artix/Manjaro/KaOS/Chakra etc.)*  
+<pre>sudo pacman -S --needed sddm sddm-kcm</pre> 
+
 **Debian based** distros using the **APT** package manager:  
 *(Ubuntu/Kubuntu/Kali/Neon/antiX etc.)*  
 <pre>sudo apt install --no-install-recommends sddm sddm-kcm</pre>  
-
-**Arch based** distros using the **pacman** package manger:  
-*(ArcoLinux/Obarun/Artix/Manjaro/KaOS/Chakra etc.)*  
-<pre>sudo pacman -S --needed sddm sddm-kcm</pre>  
+ 
 
 **openSUSE** using the **zypper** package manager:  
 <pre>sudo zypper install sddm sddm-kcm</pre>  
@@ -29,7 +30,7 @@
 
 
 ### Instalation
-If you are on KDE Plasma—by default Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "tiger" and install.
+If you are on KDE Plasma—by default ArcoLinux, Manjaro, OpenSuse, Kubuntu, go to "System setting" > "Startup and Shutdown" > "Login Screen (SDDM)" > "Get New Theme". search for "tiger" and install.
 try also for gnome menu
 
 
