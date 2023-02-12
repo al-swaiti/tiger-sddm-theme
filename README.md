@@ -40,7 +40,7 @@ If you have system stting (kde plasma, gnome, xfce, etc ) ArcoLinux, Manjaro, Op
 git clone https://github.com/al-swaiti/tiger-sddm-theme
 
 cd tiger-sddm-theme
-
+sudo mkdir -p /usr/share/sddm/themes
 sudo tar -xzvf tiger.tar.gz -C /usr/share/sddm/themes
 
 
@@ -74,6 +74,7 @@ sometimes `/etc/sddm.conf.d/kde_settings.conf`
 **the name it's not important **
 if you didnt find any you can create one by :
 ```
+sudo mkdir /etc/sddm.conf.d #if not exist
 sudo cp /usr/lib/sddm/sddm.conf.d/default.conf /etc/sddm.conf.d/  
 ```
 
